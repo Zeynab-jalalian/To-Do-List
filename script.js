@@ -14,5 +14,5 @@ btn.addEventListener('click',function(){
    button.addEventListener('click',function(){
     li.remove();
    })
-   
+
    })
